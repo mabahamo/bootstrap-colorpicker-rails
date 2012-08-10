@@ -17,7 +17,8 @@
  * limitations under the License.
  * ========================================================= */
  
-!function( $ ) {
+$(function(){
+	
   
   // Color object
   
@@ -517,4 +518,4 @@
             '</div>'
   };
 
-}( window.jQuery )
+}
